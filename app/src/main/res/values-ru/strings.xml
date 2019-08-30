@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTS Задание</string>
+    <string name="second_item">Второй Элемент</string>
+    <string name="title_activity_second">Подробно</string>
+    <string name="open_details_view">Открыть Подробности</string>
+    <string name="here_is_turnip">А вот и репка!!!</string>
+    <string name="home">Домой</string>
+    <string name="details">Подробно</string>
+    <string name="followed_the_link">Зашли по ссылке</string>
+    <string name="no_data">Нет данных</string>
+    <string name="show_data">Отобразить данные для</string>
+</resources>
